@@ -1,5 +1,7 @@
 # Bot de Reação
 
+![alt text](https://github.com/peh3k/Bot-Reacao/blob/main/bot.png)
+
 ![GitHub language count](https://img.shields.io/github/languages/count/peh3k/conversor-de-bases-numericas?style=for-the-badge)
 
 > Esse é um **Bot** para **Instagram**, que usa um sistema automatizado para enviar **reações** ilimitadas nos stories de algum usuário
