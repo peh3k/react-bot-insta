@@ -16,8 +16,8 @@ class PainelGrafico:
             [sg.Text('Usuário: ', font='Arial'), sg.InputText(size=(18, 50), justification='c', key='-USUARIO-', 
             default_text=" ")],
             [sg.Text('Senha:   ', font='Arial'), sg.InputText(size=(18, 50), key='-SENHA-', password_char='*', justification='c')], 
-            [sg.Text('Link:', font='Arial'), sg.InputText(size=(7, 50), key='-MENSAGEM-', 
-            default_text=" ")],
+            [sg.Text('Link:       ', font='Arial'), sg.InputText(size=(18, 50), key='-MENSAGEM-', 
+            default_text=" ", justification='c')],
             [sg.Button('Sair'), sg.Push(), sg.Button('Iniciar')]
         ]
         self.window = sg.Window('Robô Reação', layout)
