@@ -84,4 +84,4 @@ vai funcionar corretamente
 
 ### Author <a href="https://github.com/peh3k">peh3k</a>
 
-[⬆ Voltar ao topo]<br>
+[⬆ Voltar ao topo](#Bot-Reacao)<br>
