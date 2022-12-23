@@ -10,7 +10,7 @@ class PainelGrafico:
     
     def __init__(self):
         
-        sg.theme('SystemDefault')
+        sg.theme('Dark Amber')
         
         layout = [
             [sg.Text('Usuário: ', font='Arial'), sg.InputText(size=(18, 50), justification='c', key='-USUARIO-', 
